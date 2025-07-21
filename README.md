@@ -211,7 +211,10 @@ Thanks a lot for spending your time helping the project grow. Thanks a lot! Keep
 This project is licensed under the **Apache License 2.0**. See [`LICENSE`](LICENSE) for more info.
 
 ---
-###  Show some ❤️ by starring this  repository! <img src="https://imgur.com/o7ncZFp.jpg" height=35px width=35px>
+<div align="center">
+  <h3>Show some ❤️ by starring this repository!</h3>
+  <img src="https://imgur.com/o7ncZFp.jpg" height="35px" width="35px" />
+</div>
 
 
 <p align="center">
